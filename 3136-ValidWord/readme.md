@@ -27,31 +27,31 @@ A consonant is an English letter that is not a vowel.
  
 
 ## Example 1:
-
+<pre>
 Input: word = "234Adas"
 
 Output: true
-
+</pre>
 Explanation:
 
 This word satisfies the conditions.
 
 ## Example 2:
-
+<pre>
 Input: word = "b3"
 
 Output: false
-
+</pre>
 Explanation:
 
 The length of this word is fewer than 3, and does not have a vowel.
 
 ## Example 3:
-
+<pre>
 Input: word = "a3$e"
 
 Output: false
-
+</pre>
 Explanation:
 
 This word contains a '$' character and does not have a consonant.
