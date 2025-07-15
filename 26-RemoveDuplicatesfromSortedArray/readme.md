@@ -55,7 +55,7 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 
 ## Constraints:
 <pre>
-1 <= nums.length <= 3 × 10⁴
+1 <= nums.length <= 3 × 10<sup>4</sup>
 
 -100 <= nums[i] <= 100
 
